@@ -1,5 +1,5 @@
 # OpenIsaac v2 OUT NOW!
-
+OpenIsaac is a mouse-manipulation script that allows you to open any app on your taskbar! (Or alternatively click somewhere on your screen!)
 # External Downloads:
 
 # Version 2.0.9
